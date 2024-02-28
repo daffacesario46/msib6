@@ -5,7 +5,8 @@ UI/UX
 JavaScript
 PHP
 Laravel
-MySQL Database
+MySQL 
 REST API
 Consum API
+Belajar bersama
 //git add untuk menambahkan file
